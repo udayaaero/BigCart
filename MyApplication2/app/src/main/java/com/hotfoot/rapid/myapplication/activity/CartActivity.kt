@@ -43,6 +43,7 @@ class CartActivity : AppCompatActivity() , AddItemClick {
 
         getAllProducts()
 
+
     }
 
 
